@@ -1,0 +1,1 @@
+"""NEUROSWARM Brain — WHAT phase: resolve, detect, check, enrich."""

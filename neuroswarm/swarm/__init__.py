@@ -1,0 +1,1 @@
+"""NEUROSWARM Swarm — HOW phase: council, spawn, route, spar."""
